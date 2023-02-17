@@ -1,0 +1,48 @@
+(node:67371) ExperimentalWarning: Importing JSON modules is an experimental feature. This feature could change at any time
+(Use `node --trace-warnings ...` to show where the warning was created)
+new contract ID: 0.0.3505953
+PrecheckStatusError: transaction 0.0.3504522@1676642432.748857814 failed precheck with status CONTRACT_REVERT_EXECUTED
+    at new PrecheckStatusError (file:///Users/gdinhof/dev/sandbox/chhd_gdinhof_20230217/03_scs/node_modules/@hashgraph/sdk/src/PrecheckStatusError.js:46:9)
+    at ContractCallQuery._mapStatusError 
+(file:///Users/gdinhof/dev/sandbox/chhd_gdinhof_20230217/03_scs/node_modules/@hashgraph/sdk/src/contract/ContractCallQuery.js:273:16)
+    at ContractCallQuery.execute (file:///Users/gdinhof/dev/sandbox/chhd_gdinhof_20230217/03_scs/node_modules/@hashgraph/sdk/src/Executable.js:692:32)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+    at async main (file:///Users/gdinhof/dev/sandbox/chhd_gdinhof_20230217/03_scs/scs.js:59:32) {
+  status: Status { _code: 33 },
+  transactionId: TransactionId {
+    accountId: AccountId {
+      shard: [Long],
+      realm: [Long],
+      num: [Long],
+      aliasKey: null,
+      aliasEvmAddress: null,
+      _checksum: null
+    },
+    validStart: Timestamp { seconds: [Long], nanos: [Long] },
+    scheduled: false,
+    nonce: null
+  },
+  contractFunctionResult: ContractFunctionResult {
+    _createResult: false,
+    contractId: ContractId {
+      shard: [Long],
+      realm: [Long],
+      num: [Long],
+      evmAddress: null,
+      _checksum: null
+    },
+    bytes: <Buffer >,
+    errorMessage: '0x',
+    bloom: <Buffer >,
+    gasUsed: Long { low: 60000, high: 0, unsigned: true },
+    logs: [],
+    createdContractIds: [],
+    evmAddress: null,
+    stateChanges: [],
+    gas: Long { low: 0, high: 0, unsigned: false },
+    amount: Long { low: 0, high: 0, unsigned: false },
+    functionParameters: <Buffer >,
+    senderAccountId: null
+  }
+}
+contract successfully deleted
