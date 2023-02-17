@@ -1,0 +1,37 @@
+{
+    "name": "@gdinhof/chhd-hts",
+    "private": true,
+    "type": "module",
+    "scripts": {
+        "compile": "echo hello",
+        "lint": "run-s lint:*",
+        "lint:types": "tsc",
+        "lint:format": "prettier '*.js' '*.json' --check",
+        "lint:js": "eslint --fix '*.js' '*.json'",
+        "format": "prettier '*.js' '*.json' --write"
+    },
+    "engines": {
+        "node": ">=18"
+    },
+    "dependencies": {
+        "@hashgraph/sdk": "^2.20.0",
+        "axios": "^1.2.3",
+        "dotenv": "^16.0.3"
+    },
+    "devDependencies": {
+        "@types/node": "^18.11.18",
+        "@typescript-eslint/eslint-plugin": "^5.48.2",
+        "@typescript-eslint/parser": "^5.48.2",
+        "dpdm": "^3.11.0",
+        "eslint": "^8.32.0",
+        "eslint-plugin-compat": "^4.0.2",
+        "eslint-plugin-import": "^2.27.5",
+        "eslint-plugin-jsdoc": "^40.0.0",
+        "eslint-plugin-node": "^11.1.0",
+        "npm-run-all": "^4.1.5",
+        "nyc": "^15.1.0",
+        "prettier": "^2.8.3",
+        "typedoc": "^0.23.24",
+        "typescript": "^4.9.4"
+    }
+}
