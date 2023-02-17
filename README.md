@@ -12,3 +12,13 @@ February 17, 2023
 
 - SCS: Deployment & Deletion succeeds, but query fails
 - Scheduler: failed to set the expiration time
+
+## Run
+
+- `cd` into subdirs and run
+  - 01: `node setup.js`
+  - 02: `node hts.js`
+  - 03: `node scs.js`
+  - 04: `node scheduledtx.js`
+  - 05: `node multisig.js`
+  - 06: `node consensus.js` 
