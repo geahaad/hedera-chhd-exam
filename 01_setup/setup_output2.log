@@ -1,0 +1,50 @@
+"Ceating" new account #1
+New account ID: 0.0.302a300506032b657003210029f37c385e0a5605b30a1ff3a7a5f61c79be8be02afa9aba3d5e2cdc15fb9ccb
+Corresponding aliasKey: 302a300506032b657003210029f37c385e0a5605b30a1ff3a7a5f61c79be8be02afa9aba3d5e2cdc15fb9ccb
+Corresponding privateKey: 302e020100300506032b6570042204204e4ffbdb402ab279c60f45e3fb143139abc002b095d213359fae30fac7716477
+Funding the new account
+Balances of the new account: {"hbars":"500 ℏ","tokens":[]}
+Info about the new account: {"balance":"500 ℏ","accountId":"0.0.3504522","contractAccountId":"000000000000000000000000000000000035798a","isDeleted":false,"proxyAccountId":null,"proxyReceived":"0 tℏ","key":"302a300506032b657003210029f37c385e0a5605b30a1ff3a7a5f61c79be8be02afa9aba3d5e2cdc15fb9ccb","sendRecordThreshold":"0 tℏ","receiveRecordThreshold":"0 tℏ","isReceiverSignatureRequired":false,"expirationTime":"1684415114.0","autoRenewPeriod":"[object Object]","accountMemo":"auto-created account","ownedNfts":"0","maxAutomaticTokenAssociations":"0","aliasKey":"302a300506032b657003210029f37c385e0a5605b30a1ff3a7a5f61c79be8be02afa9aba3d5e2cdc15fb9ccb","ledgerId":"testnet","ethereumNonce":"0","stakingInfo":{"declineStakingReward":false,"stakePeriodStart":null,"pendingReward":"0 tℏ","stakedToMe":"0 tℏ","stakedAccountId":null,"stakedNodeId":null}}
+The normal account ID: 0.0.3504522
+The alias key: 302a300506032b657003210029f37c385e0a5605b30a1ff3a7a5f61c79be8be02afa9aba3d5e2cdc15fb9ccb
+--------------------------------------------------------
+"Ceating" new account #2
+New account ID: 0.0.302a300506032b65700321007a7bbdf332aa1279d7e5012602f67f4eba39b9587c8548a9042e45eb493d412b
+Corresponding aliasKey: 302a300506032b65700321007a7bbdf332aa1279d7e5012602f67f4eba39b9587c8548a9042e45eb493d412b
+Corresponding privateKey: 302e020100300506032b65700422042080aa147d4c540b180c8c9740dcc073611381659125e1d33ef3f44ffaf6deaca4
+Funding the new account
+Balances of the new account: {"hbars":"500 ℏ","tokens":[]}
+Info about the new account: {"balance":"500 ℏ","accountId":"0.0.3504523","contractAccountId":"000000000000000000000000000000000035798b","isDeleted":false,"proxyAccountId":null,"proxyReceived":"0 tℏ","key":"302a300506032b65700321007a7bbdf332aa1279d7e5012602f67f4eba39b9587c8548a9042e45eb493d412b","sendRecordThreshold":"0 tℏ","receiveRecordThreshold":"0 tℏ","isReceiverSignatureRequired":false,"expirationTime":"1684415118.0","autoRenewPeriod":"[object Object]","accountMemo":"auto-created account","ownedNfts":"0","maxAutomaticTokenAssociations":"0","aliasKey":"302a300506032b65700321007a7bbdf332aa1279d7e5012602f67f4eba39b9587c8548a9042e45eb493d412b","ledgerId":"testnet","ethereumNonce":"0","stakingInfo":{"declineStakingReward":false,"stakePeriodStart":null,"pendingReward":"0 tℏ","stakedToMe":"0 tℏ","stakedAccountId":null,"stakedNodeId":null}}
+The normal account ID: 0.0.3504523
+The alias key: 302a300506032b65700321007a7bbdf332aa1279d7e5012602f67f4eba39b9587c8548a9042e45eb493d412b
+--------------------------------------------------------
+"Ceating" new account #3
+New account ID: 0.0.302a300506032b6570032100dfa8368f4fb06b33042d4d4858482f49bc8dd0d909f451d28e2f9e14ddab26ba
+Corresponding aliasKey: 302a300506032b6570032100dfa8368f4fb06b33042d4d4858482f49bc8dd0d909f451d28e2f9e14ddab26ba
+Corresponding privateKey: 302e020100300506032b6570042204202d4c7bb886488fe5724e6130d0b20320f74b028b62e6338d09d00505ccd676dd
+Funding the new account
+Balances of the new account: {"hbars":"500 ℏ","tokens":[]}
+Info about the new account: {"balance":"500 ℏ","accountId":"0.0.3504524","contractAccountId":"000000000000000000000000000000000035798c","isDeleted":false,"proxyAccountId":null,"proxyReceived":"0 tℏ","key":"302a300506032b6570032100dfa8368f4fb06b33042d4d4858482f49bc8dd0d909f451d28e2f9e14ddab26ba","sendRecordThreshold":"0 tℏ","receiveRecordThreshold":"0 tℏ","isReceiverSignatureRequired":false,"expirationTime":"1684415121.0","autoRenewPeriod":"[object Object]","accountMemo":"auto-created account","ownedNfts":"0","maxAutomaticTokenAssociations":"0","aliasKey":"302a300506032b6570032100dfa8368f4fb06b33042d4d4858482f49bc8dd0d909f451d28e2f9e14ddab26ba","ledgerId":"testnet","ethereumNonce":"0","stakingInfo":{"declineStakingReward":false,"stakePeriodStart":null,"pendingReward":"0 tℏ","stakedToMe":"0 tℏ","stakedAccountId":null,"stakedNodeId":null}}
+The normal account ID: 0.0.3504524
+The alias key: 302a300506032b6570032100dfa8368f4fb06b33042d4d4858482f49bc8dd0d909f451d28e2f9e14ddab26ba
+--------------------------------------------------------
+"Ceating" new account #4
+New account ID: 0.0.302a300506032b6570032100d560ed23b93d78317928e399025fc6bb15ee978b960d63a8bf324022b55da73f
+Corresponding aliasKey: 302a300506032b6570032100d560ed23b93d78317928e399025fc6bb15ee978b960d63a8bf324022b55da73f
+Corresponding privateKey: 302e020100300506032b657004220420ff354be3017f0b46e2f988865faa301cdf04da7a163c7111232b3bf093cfbc19
+Funding the new account
+Balances of the new account: {"hbars":"500 ℏ","tokens":[]}
+Info about the new account: {"balance":"500 ℏ","accountId":"0.0.3504528","contractAccountId":"0000000000000000000000000000000000357990","isDeleted":false,"proxyAccountId":null,"proxyReceived":"0 tℏ","key":"302a300506032b6570032100d560ed23b93d78317928e399025fc6bb15ee978b960d63a8bf324022b55da73f","sendRecordThreshold":"0 tℏ","receiveRecordThreshold":"0 tℏ","isReceiverSignatureRequired":false,"expirationTime":"1684415123.0","autoRenewPeriod":"[object Object]","accountMemo":"auto-created account","ownedNfts":"0","maxAutomaticTokenAssociations":"0","aliasKey":"302a300506032b6570032100d560ed23b93d78317928e399025fc6bb15ee978b960d63a8bf324022b55da73f","ledgerId":"testnet","ethereumNonce":"0","stakingInfo":{"declineStakingReward":false,"stakePeriodStart":null,"pendingReward":"0 tℏ","stakedToMe":"0 tℏ","stakedAccountId":null,"stakedNodeId":null}}
+The normal account ID: 0.0.3504528
+The alias key: 302a300506032b6570032100d560ed23b93d78317928e399025fc6bb15ee978b960d63a8bf324022b55da73f
+--------------------------------------------------------
+"Ceating" new account #5
+New account ID: 0.0.302a300506032b6570032100309aca88f436d1d54bd2213c881f10c00ef048a4cbdd200529bad1bbfd8bccb2
+Corresponding aliasKey: 302a300506032b6570032100309aca88f436d1d54bd2213c881f10c00ef048a4cbdd200529bad1bbfd8bccb2
+Corresponding privateKey: 302e020100300506032b6570042204207e168bdf18c2655d9c56611870624fe611ec3483662d6ae54ab6b1ec0baa17c5
+Funding the new account
+Balances of the new account: {"hbars":"500 ℏ","tokens":[]}
+Info about the new account: {"balance":"500 ℏ","accountId":"0.0.3504529","contractAccountId":"0000000000000000000000000000000000357991","isDeleted":false,"proxyAccountId":null,"proxyReceived":"0 tℏ","key":"302a300506032b6570032100309aca88f436d1d54bd2213c881f10c00ef048a4cbdd200529bad1bbfd8bccb2","sendRecordThreshold":"0 tℏ","receiveRecordThreshold":"0 tℏ","isReceiverSignatureRequired":false,"expirationTime":"1684415126.0","autoRenewPeriod":"[object Object]","accountMemo":"auto-created account","ownedNfts":"0","maxAutomaticTokenAssociations":"0","aliasKey":"302a300506032b6570032100309aca88f436d1d54bd2213c881f10c00ef048a4cbdd200529bad1bbfd8bccb2","ledgerId":"testnet","ethereumNonce":"0","stakingInfo":{"declineStakingReward":false,"stakePeriodStart":null,"pendingReward":"0 tℏ","stakedToMe":"0 tℏ","stakedAccountId":null,"stakedNodeId":null}}
+The normal account ID: 0.0.3504529
+The alias key: 302a300506032b6570032100309aca88f436d1d54bd2213c881f10c00ef048a4cbdd200529bad1bbfd8bccb2
+--------------------------------------------------------
