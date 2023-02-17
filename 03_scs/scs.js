@@ -105,6 +105,8 @@ async function main() {
         await contractDeleteResult.getReceiptWithSigner(walletAcc1);
 
         console.log("contract successfully deleted");
+
+        process.exit();
     }
 }
 

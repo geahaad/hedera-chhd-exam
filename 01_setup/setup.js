@@ -2,9 +2,7 @@ import {
     Wallet,
     LocalProvider,
     PrivateKey,
-    PublicKey,
     Hbar,
-    AccountId,
     AccountBalanceQuery,
     AccountInfoQuery,
     TransferTransaction,
@@ -67,6 +65,8 @@ async function main() {
         console.log(`The alias key: ${info.aliasKey.toString()}`);
         console.log("--------------------------------------------------------");    
     }
+
+    process.exit();
 }
 
 void main();

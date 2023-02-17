@@ -131,6 +131,8 @@ async function main() {
 
     console.log(`Account 1 Balance: ${tokenBalanceAccountId1} hZAR / ${accountBalanceAcc1.hbars.toString()} ℏ`);
     console.log(`Account 2 Balance: ${tokenBalanceAccountId2} hZAR / ${accountBalanceAcc2.hbars.toString()} ℏ`);
+
+    process.exit();
 }
 
 void main();
