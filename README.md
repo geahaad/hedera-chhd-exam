@@ -10,8 +10,8 @@ February 17, 2023
 
 ## Remarks
 
-- SCS: Deployment & Deletion succeeds, but query fails
-- Scheduler: failed to set the expiration time
+- Task 03 / SCS: Deployment & Deletion succeeds, but query fails
+- Task 04 / Scheduler: failed to set the expiration time
 
 ## Run
 
